@@ -1,0 +1,11 @@
+Conversion Rates by Group:
+Group
+A    0.454545
+B    0.777778
+Name: Converted, dtype: float64
+
+T-test Results:
+T-statistic: -1.5005954471431688
+P-value: 0.15082863777944477
+
+Result: No statistically significant difference in conversion rates.
